@@ -2,7 +2,7 @@ package model;
 
 public class GestionDatos {
 
-	public GestionDatos(asd) {
+	public GestionDatos(asdasd) {
 
 	}
 
